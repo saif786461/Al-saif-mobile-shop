@@ -1,1 +1,1 @@
-create qr scannar Till Id=995217137
+create qr scannar Till Id=994217137
